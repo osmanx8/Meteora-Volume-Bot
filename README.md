@@ -1,4 +1,4 @@
-# Meteora DBC Volume Bot
+# Meteora Volume Bot
 
 ## Example
 Token link: https://dexscreener.com/solana/72ACnjBWbowj9ZmANRU9PWsVigh596mYFbKtt3iLmoon
